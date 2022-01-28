@@ -1,12 +1,12 @@
 {
   "name": "angular-new-router",
-  "version": "0.5.3",
+  "version": "0.5.3.1",
   "description": "The Component Router for Angular 1",
   "homepage": "https://github.com/angular/router",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular/router.git"
+    "url": "git@github.com:Traperto/router.git"
   },
   "bugs": {
     "url": "https://github.com/angular/router/issues"
@@ -20,10 +20,6 @@
     "angular-mocks": "^1.5.3",
     "es6-shim": "^0.35.0",
     "fs-extra": "^0.26.5",
-    "jasmine-core": "^2.4.1",
-    "karma": "^0.13.22",
-    "karma-chrome-launcher": "^0.2.3",
-    "karma-jasmine": "^0.3.8",
     "lite-server": "^2.0.1",
     "webpack": "^1.12.14"
   },
